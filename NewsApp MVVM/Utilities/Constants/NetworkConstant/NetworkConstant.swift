@@ -11,7 +11,7 @@ extension Constant {
     class NetworkConstant{
         enum NewsGameServiceEndPoint: String {
         case BASE_URL = "https://newsapi.org/v2/"
-        case API_KEY = "2cf47fd0502144d590c46bf2a61d7892"
+        case API_KEY = "YOUR_API_KEY"
         case TOP_HEADLINES = "top-headlines"
         case EVERYTHING = "everything"
         case SORTBY = "sortedBy"
